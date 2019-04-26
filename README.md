@@ -1,2 +1,2 @@
 # rss-reader
-Very simple commnand-line rss reader
+Very simple command-line rss reader
